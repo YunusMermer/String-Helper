@@ -1,0 +1,21 @@
+{
+    "name": "majoreasy/stringhelper",
+    "description": "you can use easy string methods",
+    "keywords": ["string helper"],
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Murat Topuz",
+            "email": "murattopuzresmi@yandex.com"
+        }
+    ],
+    "require": {
+      "php":">=7.1"
+    },
+    "autoload": {
+    "psr-4": {
+      "Major\\":"src/"
+    }
+  }
+}

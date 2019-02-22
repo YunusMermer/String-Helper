@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="259e3d69-2a73-434f-a9db-85a462ea1235" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-85">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StrHelper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3120">
+              <caret line="130" column="59" lean-forward="true" selection-start-line="130" selection-start-column="59" selection-end-line="130" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="53">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>console</find>
+      <find>ParanoiaMode</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/vue/app.js" />
+        <option value="$PROJECT_DIR$/vue/vue.html" />
+        <option value="$PROJECT_DIR$/vue/test.html" />
+        <option value="$PROJECT_DIR$/vue/app.css" />
+        <option value="$PROJECT_DIR$/vue/data.json" />
+        <option value="$PROJECT_DIR$/vue/lesson3.html" />
+        <option value="$PROJECT_DIR$/vue/app2.js" />
+        <option value="$PROJECT_DIR$/test2.php" />
+        <option value="$PROJECT_DIR$/examples/ConditionalRendering/app.js" />
+        <option value="$PROJECT_DIR$/examples/ConditionalRendering/index.html" />
+        <option value="$PROJECT_DIR$/examples/ComputedProperties/app.js" />
+        <option value="$PROJECT_DIR$/examples/ComputedProperties/index.html" />
+        <option value="$PROJECT_DIR$/examples/ComputedPropertyList/index.html" />
+        <option value="$PROJECT_DIR$/examples/ComputedPropertyList/app.js" />
+        <option value="$PROJECT_DIR$/examples/Watchers/app.js" />
+        <option value="$PROJECT_DIR$/examples/Watchers/index.html" />
+        <option value="$PROJECT_DIR$/examples/FormBinding/app.js" />
+        <option value="$PROJECT_DIR$/examples/FormBinding/index.html" />
+        <option value="$PROJECT_DIR$/examples/FormValidation/app.js" />
+        <option value="$PROJECT_DIR$/examples/FormValidation/index.html" />
+        <option value="$PROJECT_DIR$/examples/LocalFiles/index.html" />
+        <option value="$PROJECT_DIR$/examples/LocalFiles/app.js" />
+        <option value="$PROJECT_DIR$/examples/GlobalFilter/app.js" />
+        <option value="$PROJECT_DIR$/examples/GlobalFilter/index.html" />
+        <option value="$PROJECT_DIR$/examples/CustomDirective/index.html" />
+        <option value="$PROJECT_DIR$/examples/CustomDirective/app.js" />
+        <option value="$PROJECT_DIR$/examples/Component/DefineComponent/index.html" />
+        <option value="$PROJECT_DIR$/examples/Component/DefineComponent/app.js" />
+        <option value="$PROJECT_DIR$/examples/Component/LocalComponent/app.js" />
+        <option value="$PROJECT_DIR$/examples/Component/LocalComponent/index.html" />
+        <option value="$PROJECT_DIR$/examples/Component/ComponentProperty/index.html" />
+        <option value="$PROJECT_DIR$/examples/Component/ComponentProperty/app.js" />
+        <option value="$PROJECT_DIR$/examples/Component/ComponentChildAndParentProperty/index.html" />
+        <option value="$PROJECT_DIR$/examples/Component/ComponentChildAndParentProperty/app.js" />
+        <option value="$PROJECT_DIR$/examples/Component/ComponentChildAndParentEmit/app.js" />
+        <option value="$PROJECT_DIR$/examples/todoList/app.js" />
+        <option value="$PROJECT_DIR$/examples/todoList/index.html" />
+        <option value="$PROJECT_DIR$/examples/Route/app.js" />
+        <option value="$PROJECT_DIR$/examples/Route/RouteWithCDNpackage/index.html" />
+        <option value="$PROJECT_DIR$/examples/Route/RouteWithCDNpackage/app.js" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/phpcs-security-audit-master/t/t2.php" />
+        <option value="$PROJECT_DIR$/phpcs-security-audit-master/deneme/t23.php" />
+        <option value="$PROJECT_DIR$/phpcs-security-audit-master/symlink.sh" />
+        <option value="$PROJECT_DIR$/firstCs-audit/index.php" />
+        <option value="$PROJECT_DIR$/firstCs-audit/test/example.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/src/index.php" />
+        <option value="$PROJECT_DIR$/src/StrHelper.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="298" />
+    <option name="y" value="158" />
+    <option name="width" value="1381" />
+    <option name="height" value="791" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/firstCs-audit" />
+      <recent name="$PROJECT_DIR$/examples/Component" />
+      <recent name="$PROJECT_DIR$/examples" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/firstCs-audit/test" />
+      <recent name="$PROJECT_DIR$/phpcs-security-audit-master" />
+      <recent name="$PROJECT_DIR$/phpcs-security-audit-master/t" />
+      <recent name="$PROJECT_DIR$/examples/Route/RouteWithCDNpackage" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="lesson3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html/vue/lesson3.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.lesson3.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="259e3d69-2a73-434f-a9db-85a462ea1235" name="Default Changelist" comment="" />
+      <created>1548057685307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548057685307</updated>
+      <workItem from="1548057686402" duration="6252000" />
+      <workItem from="1548154718923" duration="1801000" />
+      <workItem from="1548157588042" duration="9000" />
+      <workItem from="1548220287650" duration="16434000" />
+      <workItem from="1548306769370" duration="3322000" />
+      <workItem from="1548312068381" duration="6627000" />
+      <workItem from="1548393308539" duration="3380000" />
+      <workItem from="1548403389566" duration="9017000" />
+      <workItem from="1548653782809" duration="60000" />
+      <workItem from="1548655765848" duration="1281000" />
+      <workItem from="1548662082844" duration="9000" />
+      <workItem from="1548824490470" duration="3264000" />
+      <workItem from="1548831291680" duration="1814000" />
+      <workItem from="1548835263072" duration="16489000" />
+      <workItem from="1548924873481" duration="8641000" />
+      <workItem from="1548940165165" duration="2093000" />
+      <workItem from="1548997035587" duration="8504000" />
+      <workItem from="1549429690515" duration="11238000" />
+      <workItem from="1549516519560" duration="626000" />
+      <workItem from="1549958178476" duration="1831000" />
+      <workItem from="1549960755866" duration="8395000" />
+      <workItem from="1550812126344" duration="2766000" />
+      <workItem from="1550815940831" duration="516000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="114399000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19092418" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32932165" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="10" weight="0.32932165" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4991699" visible="true" weight="0.3640351" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5008301" side_tool="true" weight="0.3640351" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32932165" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Remote Host" order="4" weight="0.32982844" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18649696" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32932165" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="10" weight="0.32932165" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4997233" visible="true" weight="0.3640351" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5002767" side_tool="true" weight="0.18859649" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32932165" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Remote Host" order="4" weight="0.32982844" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/examples/GlobalFilter/app.js" />
+    <entry file="file://$PROJECT_DIR$/examples/Watchers/index.html" />
+    <entry file="file://$PROJECT_DIR$/examples/Watchers/app.js" />
+    <entry file="file://$PROJECT_DIR$/examples/CustomDirective/index.html" />
+    <entry file="file://$PROJECT_DIR$/examples/CustomDirective/app.js" />
+    <entry file="file://$PROJECT_DIR$/examples/ComputedProperties/app.js" />
+    <entry file="file://$PROJECT_DIR$/examples/ComputedProperties/index.html" />
+    <entry file="file://$PROJECT_DIR$/examples/FormValidation/app.js" />
+    <entry file="file://$PROJECT_DIR$/examples/proje-todolist/app.js" />
+    <entry file="file://$PROJECT_DIR$/examples/proje-todolist/index.html" />
+    <entry file="file://$PROJECT_DIR$/examples/FormBinding/index.html" />
+    <entry file="file://$PROJECT_DIR$/examples/Cli/my-app-on-vue-ui/src/App.vue" />
+    <entry file="file://$PROJECT_DIR$/examples/Component/GlobalComponent/app.js" />
+    <entry file="file://$PROJECT_DIR$/examples/Component/GlobalComponent/index.html" />
+    <entry file="file://$PROJECT_DIR$/examples/Component/LocalComponent/index.html" />
+    <entry file="file://$PROJECT_DIR$/examples/Component/LocalComponent/app.js" />
+    <entry file="file://$PROJECT_DIR$/examples/Component/ComponentProperty/index.html" />
+    <entry file="file://$PROJECT_DIR$/examples/Component/ComponentProperty/app.js" />
+    <entry file="file://$PROJECT_DIR$/examples/Component/ComponentChildAndParentProperty/index.html" />
+    <entry file="file://$PROJECT_DIR$/examples/Component/ComponentChildAndParentProperty/app.js" />
+    <entry file="file://$PROJECT_DIR$/examples/Component/ComponentChildAndParentEmit/index.html" />
+    <entry file="file://$PROJECT_DIR$/examples/todoList/index.html" />
+    <entry file="file://$PROJECT_DIR$/examples/todoList/app.js" />
+    <entry file="file://$PROJECT_DIR$/examples/ComputedPropertyList/app.js" />
+    <entry file="file://$PROJECT_DIR$/examples/Component/ComponentChildAndParentEmit/app.js" />
+    <entry file="file://$PROJECT_DIR$/examples/Route/RouteWithCDNpackage/index.html" />
+    <entry file="file://$PROJECT_DIR$/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/phpcs-security-audit-master/composer.json" />
+    <entry file="file://$PROJECT_DIR$/phpcs-security-audit-master/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/phpcs-security-audit-master/example_base_ruleset.xml" />
+    <entry file="file://$PROJECT_DIR$/phpcs-security-audit-master/Security/Sniffs/UtilsFactory.php" />
+    <entry file="file://$PROJECT_DIR$/phpcs-security-audit-master/Security/Sniffs/Misc/BadCorsHeaderSniff.php" />
+    <entry file="file://$PROJECT_DIR$/phpcs-security-audit-master/Security/Sniffs/Misc/IncludeMismatchSniff.php" />
+    <entry file="file://$PROJECT_DIR$/examples/Route/RouteWithCDNpackage/app.js" />
+    <entry file="file://$PROJECT_DIR$/phpcs-security-audit-master/symlink.sh" />
+    <entry file="file://$PROJECT_DIR$/phpcs-security-audit-master/t/t2.php" />
+    <entry file="file://$PROJECT_DIR$/firstCs-audit/vendor/composer/autoload_namespaces.php" />
+    <entry file="file://$PROJECT_DIR$/firstCs-audit/vendor/composer/autoload_real.php" />
+    <entry file="file://$PROJECT_DIR$/firstCs-audit/vendor/pheromone/phpcs-security-audit/composer.json" />
+    <entry file="file://$PROJECT_DIR$/firstCs-audit/vendor/pheromone/phpcs-security-audit/example_base_ruleset.xml" />
+    <entry file="file://$PROJECT_DIR$/phpcs-security-audit-master/t23.php" />
+    <entry file="file://$PROJECT_DIR$/firstCs-audit/OlayController.php" />
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/firstCs-audit/composer.lock" />
+    <entry file="file://$PROJECT_DIR$/firstCs-audit/test/example.php" />
+    <entry file="file://$PROJECT_DIR$/firstCs-audit/test/index.php" />
+    <entry file="file://$PROJECT_DIR$/phpcs-security-audit-master/t/t21.php" />
+    <entry file="file://$PROJECT_DIR$/../index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3120">
+          <caret line="130" column="59" lean-forward="true" selection-start-line="130" selection-start-column="59" selection-end-line="130" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
