@@ -9,6 +9,10 @@ You can use easy String Methods
 > use \Major\Helper\StrHelper;
 
 * Repeat
+> echo StrHelper::setStr("hi i like tea")::toJadenCase(); <br>
+// Hi I Like Tea
+
+* Repeat
 > echo StrHelper::setStr("Hello my name is James")::repeat(3); <br>
 // Result : Hello my name is James Hello my name is James Hello my name is James
 
