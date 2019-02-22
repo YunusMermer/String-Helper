@@ -20,11 +20,16 @@ class ComposerStaticInit165f3f1c96ec825e733a6fe7e7186a39
         ),
     );
 
+    public static $classMap = array (
+        'Major\\Helper\\StrHelper' => __DIR__ . '/../..' . '/src/Helper/StrHelper.php',
+    );
+
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
             $loader->prefixLengthsPsr4 = ComposerStaticInit165f3f1c96ec825e733a6fe7e7186a39::$prefixLengthsPsr4;
             $loader->prefixDirsPsr4 = ComposerStaticInit165f3f1c96ec825e733a6fe7e7186a39::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInit165f3f1c96ec825e733a6fe7e7186a39::$classMap;
 
         }, null, ClassLoader::class);
     }
