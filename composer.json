@@ -2,7 +2,6 @@
     "name": "majoreasy/stringhelper",
     "description": "you can use easy string methods",
     "keywords": ["string helper"],
-    "type": "project",
     "license": "MIT",
     "authors": [
         {
