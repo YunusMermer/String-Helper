@@ -9,6 +9,7 @@
             "email": "murattopuzresmi@yandex.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
       "php":">=7.1"
     },
