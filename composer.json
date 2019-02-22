@@ -2,7 +2,6 @@
     "name": "majoreasy/stringhelper",
     "description": "you can use easy string methods",
     "keywords": ["string helper"],
-    "license": "MIT",
     "authors": [
         {
             "name": "Murat Topuz",
@@ -11,11 +10,12 @@
     ],
     "minimum-stability": "dev",
     "require": {
-      "php":">=7.1"
+        "php": ">=7.1"
     },
+    "license": "MIT",
     "autoload": {
-    "psr-4": {
-      "Major\\":"src/"
+        "psr-4": {
+            "Major\\":"src/"
+        }
     }
-  }
 }
