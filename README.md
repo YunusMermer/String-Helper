@@ -8,7 +8,7 @@ You can use easy String Methods
 > require_once('vendor/autoload.php');
 > use \Major\Helper\StrHelper;
 
-* Repeat
+* toJadenCase
 > echo StrHelper::setStr("hi i like tea")::toJadenCase(); <br>
 // Hi I Like Tea
 
