@@ -18,7 +18,7 @@ You can use easy String Methods
 
 * Slice
 > echo StrHelper::setStr("Im from England")::slice(0, 3); <br>
-// Result : Hel
+// Result : Im
 
 * Length
 > echo StrHelper::setStr("I have brother")::length(); <br>
